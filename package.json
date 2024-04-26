@@ -1,8 +1,8 @@
 {
   "type": "commonjs",
-  "name": "tecnical-test",
+  "name": "count-words",
   "version": "1.0.0",
-  "description": "technical test for encora inc",
+  "description": "Code to count word by text plain or .txt archive",
   "main": "app.js",
   "scripts": {
     "test": "npm test",
