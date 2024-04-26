@@ -1,0 +1,22 @@
+{
+  "type": "commonjs",
+  "name": "tecnical-test",
+  "version": "1.0.0",
+  "description": "technical test for encora inc",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon app.js"
+  },
+  "author": "Pedro Flores",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
